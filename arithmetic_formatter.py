@@ -36,7 +36,3 @@ def arithmetic_arranger(problems, show_answers=False):
 
     if not show_answers: return f'{top_row}\n{bottom_row}\n{dashes}'
     if show_answers: return f'{top_row}\n{bottom_row}\n{dashes}\n{answers}'
-
-
-fart = arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True)
-print(fart)
