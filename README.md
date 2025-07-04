@@ -1,4 +1,4 @@
-# Arithmetic Formatter
+# Arithmetic Arranger
 A Python script to format and solve basic arithmetic problems (addition and subtraction) in a clean, vertically aligned layout.
 
 ## Features
