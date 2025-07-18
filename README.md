@@ -31,24 +31,6 @@ Output:
 - **Answer Calculation**: Computes results for addition or subtraction if `show_answers=True`.
 - **Output**: Returns a formatted string with or without answers based on the input parameter.
 
-## Examples
-```python
-# Without answers
-print(arithmetic_arranger(["32 + 8", "1 - 3801"]))
-# Output:
-#    32         1
-# +   8    - 3801
-# -----    ------
-
-# With answers
-print(arithmetic_arranger(["32 + 8", "1 - 3801"], True))
-# Output:
-#    32         1
-# +   8    - 3801
-# -----    ------
-#    40     -3800
-```
-
 ## Notes
 - Input problems must be strings in the format `"num1 operator num2"` with spaces.
 - Maximum of 5 problems allowed to keep output clean.
