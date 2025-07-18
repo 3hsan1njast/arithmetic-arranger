@@ -34,4 +34,4 @@ Output:
 ## Notes
 - Input problems must be strings in the format `"num1 operator num2"` with spaces.
 - Maximum of 5 problems allowed to keep output clean.
-- Built with ❤️ by Ehsan for quick arithmetic formatting and calculations.
+- Built with ❤️ by Ehsan.
