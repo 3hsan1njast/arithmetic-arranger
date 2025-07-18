@@ -1,5 +1,5 @@
 # Arithmetic Arranger
-A Python script to format and solve basic arithmetic problems (addition and subtraction) in a clean, vertically aligned layout.
+A Python script to format and solve basic arithmetic problems (addition - subtraction) in a clean, vertically aligned layout.
 
 ## Features
 - **Problem Formatting**: Displays up to 5 arithmetic problems (e.g., "32 + 698") in a neat, vertical format.
