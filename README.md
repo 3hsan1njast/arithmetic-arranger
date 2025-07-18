@@ -1,4 +1,4 @@
-# Arithmetic Arranger
+# ➗ Arithmetic Arranger ➗
 A Python script to format and solve basic arithmetic problems (addition - subtraction) in a clean, vertically aligned layout.
 
 ## Features
